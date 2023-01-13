@@ -4,3 +4,4 @@ tslint.json
 coverage
 __tests__
 node_modules/
+banner.png
