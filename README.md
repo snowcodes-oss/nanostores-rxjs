@@ -1,7 +1,7 @@
 # @snowcodes/nanostores-rxjs
 
 
-![](banner.png)
+![](nanostores-rxjs.png)
 
 ## Add reactivity to [nanostores](https://github.com/nanostores/nanostores).
 
